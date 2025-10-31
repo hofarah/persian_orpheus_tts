@@ -25,7 +25,7 @@ Fine-tuned model available here:
 * **Base model:** Orpheus LLaMA-3B (English)
 * **Fine-tuning method:** Finglish-to-Persian dataset alignment
 * **Objective:** Persian phoneme alignment with English latent representations
-* **Frameworks used:** PyTorch, Transformers, Accelerate
+* **Frameworks used:** PyTorch, Transformers
 
 ---
 
