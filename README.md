@@ -48,6 +48,13 @@ You can listen to an example output from the fine-tuned model below:
 
 🎧 [`example.wav`](./example.wav)
 
+You can listen to the generated Persian speech below:
+
+<audio controls>
+  <source src="example.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
 This clip demonstrates the model’s ability to generate **fluent, natural-sounding Persian** with expressive intonation and accurate pronunciation.
 
 ---
