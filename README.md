@@ -108,7 +108,3 @@ Special thanks to open-source contributors and the Hugging Face community for th
 
 This project is released under the **MIT License**.
 Feel free to experiment, modify, and extend it for research or creative projects.
-
----
-
-Would you like me to make a **Persian version** of this README too (با توضیحات فارسی برای ریپو گیت‌هاب)؟
